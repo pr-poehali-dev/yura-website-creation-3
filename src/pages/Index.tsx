@@ -1,10 +1,10 @@
-import { Fragment } from "react";
+
 import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
 import HeroSection from "@/components/sections/HeroSection";
 import AboutSection from "@/components/sections/AboutSection";
 import ServicesSection from "@/components/sections/ServicesSection";
 import ContactSection from "@/components/sections/ContactSection";
-import Footer from "@/components/layout/Footer";
 
 const Index = () => {
   return (
